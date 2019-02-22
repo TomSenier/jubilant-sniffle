@@ -26,6 +26,7 @@ public class MyServlet extends javax.servlet.http.HttpServlet {
             writer.println("</body>");
             writer.println("</html>");
         }
+        
         Server server = new Server();
         server.go();
     }                              
