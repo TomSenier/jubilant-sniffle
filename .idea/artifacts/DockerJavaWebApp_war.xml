@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DockerJavaWebApp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/DockerJavaWebApp_war</output-path>
+    <root id="archive" name="DockerJavaWebApp_war.war">
+      <element id="artifact" artifact-name="DockerJavaWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
